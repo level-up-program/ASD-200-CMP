@@ -16,7 +16,7 @@ import org.junit.runner.RunWith;
 
 @RunWith(Cucumber.class)
 @CucumberOptions(
-        features = {"classpath:features/Hello.feature"},
+        features = {"src/test/resources/features"},
         glue = {"torrent"})
 public class HelloTest{
 
