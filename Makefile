@@ -7,12 +7,6 @@ bootstrap:
 setup:
 	echo "'Setup' not implemented"
 
-update: bootstrap
-	echo "'Update' not implemented"
-
-run: update
-	mvn package
-
 console:
 	echo "'Console' not implemented"
 
@@ -22,8 +16,8 @@ clean:
 build: test
 	mvn install
 
-test: clean update
+test: clean
 	mvn verify
 
-cibuild: test
+cibuild:
 	mvn package
