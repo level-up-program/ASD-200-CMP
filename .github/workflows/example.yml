@@ -2,9 +2,7 @@ name: Makefile CI
 
 on:
   push:
-    branches: [ main, develop, workspace* ]
-  pull_request:
-    branches: [ main, develop ]
+    branches: [ workspace/group-1 ]
 
 jobs:
   build:
