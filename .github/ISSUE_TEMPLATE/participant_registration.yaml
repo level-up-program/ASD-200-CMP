@@ -9,18 +9,16 @@ body:
     id: contact
     attributes:
       label: First and Last Name
-      description: Give us your first and last name, if you're comfortable. Otherwise, let an instructor know you've registered and what your GitHub ID is.
+      description: Give us your first and last name, if you're comfortable. Otherwise, email DevRel@wellsfargo.com once you've registered and what your GitHub ID is.
       placeholder: Firstname Lastname
     validations:
       required: false
-  - type: input
-    id: team
-    attributes:
-      label: Team Name
-      description: If you've formed teams in the workshop, what is your Team Name?
-      placeholder: Team Name
-    validations:
-      required: false
+  - type: checkboxes
+      label: Photo Release
+      description: By checking this box, I grant the right to photograph, film, or otherwise record me during this workshop.
+      options:
+        - label: I authorize photo release
+        required: true
   - type: checkboxes
     id: terms
     attributes:
