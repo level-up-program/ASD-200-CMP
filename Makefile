@@ -11,19 +11,19 @@ update: bootstrap
 	echo "'Update' not implemented"
 
 run: update
-	echo "'Run' not implemented"
+	mvn package
 
 console:
 	echo "'Console' not implemented"
 
 clean:
-	echo "'Clean' not implemented"
+	mvn clean
 
 build: test
-	echo "'Build' not implemented"
+	mvn install
 
 test: clean update
-	echo "'Test' not implemented"
+	mvn verify
 
 cibuild: test
-	echo "'CIBuild' Not implemented"
+	mvn deploy
