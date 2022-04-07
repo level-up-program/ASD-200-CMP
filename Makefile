@@ -26,4 +26,4 @@ test: clean update
 	mvn verify
 
 cibuild: test
-	mvn deploy
+	mvn package
