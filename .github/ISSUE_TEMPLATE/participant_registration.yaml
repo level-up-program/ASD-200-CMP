@@ -14,12 +14,13 @@ body:
     validations:
       required: false
   - type: checkboxes
-      id: photorelease
+    id: photorelease
+    attributes:
       label: Photo Release
       description: By checking this box, I grant the right to photograph, film, or otherwise record me during this workshop.
       options:
         - label: I authorize photo release
-        required: true
+          required: true
   - type: checkboxes
     id: terms
     attributes:
