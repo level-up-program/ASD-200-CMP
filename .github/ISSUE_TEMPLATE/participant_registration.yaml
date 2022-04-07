@@ -13,6 +13,17 @@ body:
       placeholder: Firstname Lastname
     validations:
       required: false
+  - type: dropdown
+  attributes:
+    label: Which session are you attending? If unknown, contact DevRel@wellsfargo.com.
+    options:
+    - 4/26 week in Charlotte
+    - 5/16 week in San Fransisco
+    - 6/6 week in Chandler
+    - 8/8 week in Des Moines
+    - 9/12 week in Charlotte
+    - 10/17 week in San Fransisco
+    - 11/14 week in Chandler
   - type: checkboxes
     id: photorelease
     attributes:
