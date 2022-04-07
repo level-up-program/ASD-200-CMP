@@ -24,7 +24,8 @@ body:
       - 9/12 week in Charlotte
       - 10/17 week in San Fransisco
       - 11/14 week in Chandler
-        required: true
+    validations:
+      required: true
   - type: checkboxes
     id: photorelease
     attributes:
