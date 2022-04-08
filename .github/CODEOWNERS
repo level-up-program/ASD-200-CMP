@@ -1,9 +1,0 @@
-# DON'T CHANGE ANYTHING BELOW THIS LINE UNLESS YOU'RE AN ADMIN
-# LEARN MORE: https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners#about-code-owners
-
-CODE_OF_CONDUCT.md @level-up-program/admins
-LICENSE @level-up-program/admins
-.github/ @level-up-program/admins
-/docs/ @level-up-program/admins
-Makefile @level-up-program/admins
-CITATION.cff @level-up-program/admins
