@@ -1,6 +1,5 @@
 package torrent;
 
-import java.util.*;
 
 public class Game {
     
@@ -9,7 +8,7 @@ public class Game {
 
     }
 
-    public Map getMap(){
+    public GameMap getGameMap(){
         return null;
     }
 
@@ -21,7 +20,5 @@ public class Game {
         return null;
     }
 
-    public String getSword(){
-        return null;
-    }
+    
 }
