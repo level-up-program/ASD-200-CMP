@@ -16,8 +16,10 @@ import org.junit.runner.RunWith;
 
 @RunWith(Cucumber.class)
 @CucumberOptions(
-        features = {"src/test/resources/features"},
-        glue = {"torrent"})
+        features = {"src/test/it/resources/features"},
+        glue = {"torrent"},
+        plugin = {"pretty"},
+        dryRun = true)
 public class HelloTest{
 
     @Test

@@ -2,14 +2,14 @@ package torrent;
 
 
 public class Game {
-    
+    private GameMap gameMap = null;
 
     public void init(){
-
+        gameMap = new GameMap();
     }
 
     public GameMap getGameMap(){
-        return null;
+        return this.gameMap;
     }
 
     public Player getPlayer(){
