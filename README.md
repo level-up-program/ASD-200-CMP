@@ -1,3 +1,4 @@
 # Agile Software Development Camp (ASD-200-CMP)
-## Project Boilerplate
-Test commit
+## Shared resources, scripts, and documents
+
+Learning resources are located in the docs folder
