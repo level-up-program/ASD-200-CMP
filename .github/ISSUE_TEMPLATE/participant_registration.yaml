@@ -9,13 +9,13 @@ body:
     id: contact
     attributes:
       label: First and Last Name
-      description: Give us your first and last name, if you're comfortable. Otherwise, email DevRel@wellsfargo.com once you've registered and what your GitHub ID is.
+      description: Give us your first and last name, if you're comfortable.
       placeholder: Firstname Lastname
     validations:
       required: false
   - type: dropdown
     attributes:
-      label: Which session are you attending? If unknown, contact DevRel@wellsfargo.com.
+      label: Which session are you attending?
       options:
       - 4/26 week in Charlotte
       - 5/16 week in San Fransisco
