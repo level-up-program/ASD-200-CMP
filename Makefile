@@ -1,29 +1,13 @@
-.PHONY: bootstrap setup update run console clean build test cibuild
-.DEFAULT_GOAL := bootstrap
-
-bootstrap:
-	echo "'Bootstrap' not implemented"
-
-setup:
-	echo "'Setup' not implemented"
-
-update: bootstrap
-	echo "'Update' not implemented"
-
-run: update
-	echo "'Run' not implemented"
-
-console:
-	echo "'Console' not implemented"
+.PHONY: clean issue-export-json
+.DEFAULT_GOAL := issue-dump
 
 clean:
-	echo "'Clean' not implemented"
+	rm -f github-dump.*
 
-build: test
-	echo "'Build' not implemented"
+issue-export-json:
+	./export_issues.sh
 
-test: clean update
-	echo "'Test' not implemented"
+issue-convert-csv:
+	python json2csv.py
 
-cibuild: test
-	echo "'CIBuild' Not implemented"
+issue-dump: clean issue-export-json issue-convert-csv
