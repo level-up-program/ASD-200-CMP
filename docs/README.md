@@ -4,7 +4,7 @@
 https://level-up-program.github.io/ASD-200-CMP
 
 ## Downloadable
-[Level-Up-ASD-200-CMP.pdf](https://drive.google.com/file/d/1WdBOIpVGjbUWXDH_2j6OL6utMWlQ6wEq/view?usp=sharing)
+[Level-Up-ASD-200-CMP.pdf](https://drive.google.com/file/d/1NNuCrb7qpFrjuoZWQVUm_hDqZZ8as5kd/view?usp=sharing)
 
 # Books, articles, and videos referenced
 https://docs.google.com/spreadsheets/d/e/2PACX-1vSN3im9QnpxFlNKoapAvpwHSjLvxckjFcP3vxKplInmQ-XeOenFHkU8gKLbY7XhPFEcecix6F76iqLq/pubhtml
