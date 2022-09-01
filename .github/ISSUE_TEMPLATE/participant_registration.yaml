@@ -9,10 +9,31 @@ body:
     id: contact
     attributes:
       label: First and Last Name
-      description: Give us your first and last name, if you're comfortable. Otherwise, let an instructor know you've registered and what your GitHub ID is.
+      description: Give us your first and last name, if you're comfortable.
       placeholder: Firstname Lastname
     validations:
       required: false
+  - type: dropdown
+    attributes:
+      label: Which session are you attending?
+      options:
+      - 4/26 week in Charlotte
+      - 5/16 week in San Fransisco
+      - 6/6 week in Chandler
+      - 8/8 week in Des Moines
+      - 9/12 week in Charlotte
+      - 10/17 week in San Fransisco
+      - 11/14 week in Chandler
+    validations:
+      required: true
+  - type: checkboxes
+    id: photorelease
+    attributes:
+      label: Photo Release
+      description: By checking this box, I grant the right to photograph, film, or otherwise record me during this workshop.
+      options:
+        - label: I authorize photo release
+          required: true
   - type: checkboxes
     id: terms
     attributes:
