@@ -9,6 +9,9 @@
 - [Live Sheets View - Continuously Updated](https://docs.google.com/spreadsheets/d/e/2PACX-1vSN3im9QnpxFlNKoapAvpwHSjLvxckjFcP3vxKplInmQ-XeOenFHkU8gKLbY7XhPFEcecix6F76iqLq/pubhtml)  
 - [Offline Snapshot for Download](https://levelup-shared-materials.s3.amazonaws.com/Learning+Resources.xlsx)
 
+### Env Guide
+- [Environment Setup Checklist](https://github.com/level-up-program/ASD-200-CMP/wiki/Environment-Setup-Checklist)
+
 ### ATDD Getting Started Guides
 - [Python and Robot](https://levelup-shared-materials.s3.amazonaws.com/python-robot-gettingstarted-asd200cmp.pdf)
 - [C# and SpecFlow](https://levelup-shared-materials.s3.amazonaws.com/dotnet-specflow-gettingstarted-asd200cmp.pdf)
