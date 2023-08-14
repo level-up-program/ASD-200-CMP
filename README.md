@@ -10,3 +10,7 @@
 
 ### Env Guide
 - [Environment Setup Checklist](https://github.com/level-up-program/ASD-200-CMP/wiki/Environment-Setup-Checklist)
+
+### Definition of Ready
+
+- [DoR (Charlotte, Aug, 23)](https://github.com/level-up-program/ASD-200-CMP/wiki/Definition-of-Ready)
