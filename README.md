@@ -2,7 +2,12 @@
 ## Shared resources, scripts, and documents
 
 ### Participant Guide
+DO NOT REPUBLISH WITHOUT WRITTEN PERMISSION FROM LEVEL UP TEAM
 - [Participant Guide](https://levelup-shared-materials.s3.amazonaws.com/Level-Up-Participant-Guide-Formatted.pdf)
+
+### Class Slides
+DO NOT REPUBLISH WITHOUT WRITTEN PERMISSION FROM LEVEL UP TEAM
+- [Class Slides](https://levelup-shared-materials.s3.amazonaws.com/ASD-200-CMP-Slides.pdf)
 
 ### Books, articles, and videos referenced - LIVE UPDATED
 - [Live Sheets View - Continuously Updated](https://docs.google.com/spreadsheets/d/e/2PACX-1vSN3im9QnpxFlNKoapAvpwHSjLvxckjFcP3vxKplInmQ-XeOenFHkU8gKLbY7XhPFEcecix6F76iqLq/pubhtml)  
@@ -10,7 +15,3 @@
 
 ### Env Guide
 - [Environment Setup Checklist](https://github.com/level-up-program/ASD-200-CMP/wiki/Environment-Setup-Checklist)
-
-### Definition of Ready
-
-- [DoR (Charlotte, Aug, 23)](https://github.com/level-up-program/ASD-200-CMP/wiki/Definition-of-Ready)
