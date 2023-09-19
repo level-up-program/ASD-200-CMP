@@ -8,6 +8,7 @@ DO NOT REPUBLISH WITHOUT WRITTEN PERMISSION FROM LEVEL UP TEAM
 ### Class Slides
 DO NOT REPUBLISH WITHOUT WRITTEN PERMISSION FROM LEVEL UP TEAM
 - [Class Slides](https://levelup-shared-materials.s3.amazonaws.com/ASD-200-CMP-Slides.pdf)
+- [Conference Slides](https://levelup-shared-materials.s3.amazonaws.com/ASD-200-CNF-GSlides-LargeScale.pdf)
 
 ### Books, articles, and videos referenced - LIVE UPDATED
 - [Live Sheets View - Continuously Updated](https://docs.google.com/spreadsheets/d/e/2PACX-1vSN3im9QnpxFlNKoapAvpwHSjLvxckjFcP3vxKplInmQ-XeOenFHkU8gKLbY7XhPFEcecix6F76iqLq/pubhtml)  
